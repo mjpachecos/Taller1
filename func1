@@ -1,0 +1,8 @@
+/*
+//
+
+Public class taller1{
+Public Static void main(String[] args){
+ System.out.print("Segunda funcion");
+ }
+ }
